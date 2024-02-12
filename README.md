@@ -17,11 +17,10 @@ Scientific research posters are an essential medium for presenting research find
 
 The following is a list of research posters included in this repository:
 
-- [Poster 1 Title](link-to-poster1): Description of Poster 1.
-- [Poster 2 Title](link-to-poster2): Description of Poster 2.
-- [Poster 3 Title](link-to-poster3): Description of Poster 3.
+- [Epivizor](https://github.com/ChristyPeterson/myposters/blob/main/assets/20240108_INFORM-epivisor_v1_lowres.jpg): a fast, scalable and flexible application to allow users to explore complex data through interactive visuals. An application presentation with use case, presented at INFORM 2024.
+- [Shotgun Metagenomics](https://github.com/ChristyPeterson/myposters/blob/main/assets/csm2018_metagenomics_v4.jpg): Can it be a one-stop-shop CIDT for enteric pathogen detection and typing in stool? Metagenomic research presentation, presented at CSM 2018.
 
-Feel free to explore the posters and download them for reference or use in your own research presentations.
+Feel free to explore the posters and download them for reference.
 
 ## Usage
 
