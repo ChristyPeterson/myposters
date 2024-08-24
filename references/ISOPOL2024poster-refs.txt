@@ -1,0 +1,28 @@
+Peterson, CL et al. Genomic surveillance of clinical listeria monocytogenes in Canada 2017-2024, ISOPOL2024
+
+REFERENCE LIST
+
+Didelot et al (2018). Bayesian inference of ancestral dates on bacterial phylogenetic trees. Nucleic Acids Research,46:e134.
+
+Firke S (2023). _janitor: Simple Tools for Examining and Cleaning Dirty Data_. R package version 2.2.0,https://CRAN.R-project.org/package=janitor
+
+Gurevich A, Saveliev V, Vyahhi N, Tesler G. QUAST: quality assessment tool for genome assemblies. Bioinformatics. 2013 Apr 15;29(8):1072-5. doi: 10.1093/bioinformatics/btt086. Epub 2013 Feb 19. PMID: 23422339; PMCID: PMC3624806.
+
+Kille B, Nute MG, Huang V, Kim E, Phillippy AM, Treangen TJ:Parsnp 2.0: Scalable Core-Genome Alignment for Massive Microbial Datasets. bioRxiv (2024). doi: https://doi.org/10.1101/2024.01.30.577458
+
+Nascimento M, Sousa A, Ramirez M, Francisco AP, Carriço JA, Vaz C. PHYLOViZ 2.0: providing scalable data integration and visualization for multiple phylogenetic inference methods. Bioinformatics 33:128–129.
+
+Paradis E, Schliep K (2019). “ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R.”_Bioinformatics_, *35*, 526-528. doi:10.1093/bioinformatics/bty633 https://doi.org/10.1093/bioinformatics/bty633
+
+R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.
+
+Seemann T, mlst. https://github.com/tseemann/mlst
+"This publication made use of the PubMLST website (https://pubmlst.org/) developed by Keith Jolley (Jolley & Maiden 2010, BMC Bioinformatics, 11:595) and sited at the University of Oxford. The development of that website was funded by the Wellcome Trust".
+
+Seemann T, shovill. https://github.com/tseemann/shovill
+
+Shifu Chen, Yanqing Zhou, Yaru Chen, Jia Gu; fastp: an ultra-fast all-in-one FASTQ preprocessor, Bioinformatics, Volume 34, Issue 17, 1 September 2018, Pages i884–i890, https://doi.org/10.1093/bioinformatics/bty560
+
+Shuangbin Xu, Lin Li, Xiao Luo, Meijun Chen, Wenli Tang, Li Zhan, Zehan Dai, Tommy T. Lam, Yi Guan, Guangchuang Yu. Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data. iMeta 2022, 4(1):e56. doi:10.1002/imt2.56
+
+Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R, Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller E, Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K, Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to the tidyverse.” _Journal of Open Source Software_, *4*(43), 1686. doi:10.21105/joss.01686 <https://doi.org/10.21105/joss.01686>.
