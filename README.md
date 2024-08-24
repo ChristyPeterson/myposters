@@ -20,7 +20,7 @@ The following is a list of research posters included in this repository:
 - [Epivizor](https://github.com/ChristyPeterson/myposters/blob/main/assets/20240108_INFORM-epivisor_v1_lowres.jpg): a fast, scalable and flexible application to allow users to explore complex data through interactive visuals. An application presentation posert with use case, presented at INFORM 2024.
 - [Shotgun Metagenomics](https://github.com/ChristyPeterson/myposters/blob/main/assets/csm2018_metagenomics_v4.jpg): Can it be a one-stop-shop CIDT for enteric pathogen detection and typing in stool? Metagenomic research poster, presented at CSM 2018.
 - [Genomic Surveillance of clinical listeria monocytogenes in Canada 2017-2024](URL) poster presented at ISOPOL 2024.
-    - [Reference list](URL)
+    - [Reference list](https://github.com/ChristyPeterson/myposters/blob/main/references/ISOPOL2024poster-refs.txt)
 
 Feel free to explore the posters and download them for reference.
 
