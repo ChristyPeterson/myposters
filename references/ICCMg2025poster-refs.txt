@@ -1,0 +1,29 @@
+Peterson CL et al. 2025; Advancing foodborne pathogen surveillance: Salmonella typing via shotgun metagenomics, ICCMg 2025
+
+REFERENCE LIST
+
+[1] S. Chen, Y. Zhou, Y. Chen, and J. Gu, “fastp: an ultra-fast all-in-one FASTQ preprocessor,” Bioinformatics, vol. 34, no. 17, pp. i884–i890, Sep. 2018, doi: 10.1093/bioinformatics/bty560.
+[2] B. Constantinides, M. Hunt, and D. W. Crook, “Hostile: accurate decontamination of microbial host sequences,” Bioinformatics, vol. 39, no. 12, p. btad728, Dec. 2023, doi: 10.1093/bioinformatics/btad728.
+[3] H. Li, “Minimap2: pairwise alignment for nucleotide sequences,” Bioinformatics, vol. 34, no. 18, pp. 3094–3100, Sep. 2018, doi: 10.1093/bioinformatics/bty191.
+[4] C.-L. Peterson et al., “Clinical Metagenomics Is Increasingly Accurate and Affordable to Detect Enteric Bacterial Pathogens in Stool,” Microorganisms, vol. 10, no. 2, Art. no. 2, Feb. 2022, doi: 10.3390/microorganisms10020441.
+[5] L. C. Ray et al., “Changing Diagnostic Testing Practices for Foodborne Pathogens, Foodborne Diseases Active Surveillance Network, 2012–2019,” Open Forum Infect Dis, vol. 9, no. 8, p. ofac344, Jul. 2022, doi: 10.1093/ofid/ofac344.
+[6] J. Shaw and Y. W. Yu, “Rapid species-level metagenome profiling and containment estimation with sylph,” Nat Biotechnol, pp. 1–12, Oct. 2024, doi: 10.1038/s41587-024-02412-y.
+[7] D. E. Wood, J. Lu, and B. Langmead, “Improved metagenomic analysis with Kraken 2,” Genome Biol., vol. 20, no. 1, pp. 257–0, Nov. , doi: 10.1186/s13059-019-1891-0.
+[8] C. E. Yoshida et al., “The Salmonella In Silico Typing Resource (SISTR): An Open Web-Accessible Tool for Rapidly Typing and Subtyping Draft Salmonella Genome Assemblies,” PLOS ONE, vol. 11, no. 1, p. e0147101, 2016, doi: 10.1371/journal.pone.0147101.
+[9] P. H. A. of Canada, “National case definition: Salmonellosis.” Accessed: Oct. 20, 2025. [Online]. Available: https://www.canada.ca/en/public-health/services/diseases/salmonellosis-salmonella/health-professionals/national-case-definition.html
+[10] S. Zhang et al., “SeqSero2: Rapid and Improved Salmonella Serotype Determination Using Whole-Genome Sequencing Data,” Appl Environ Microbiol, vol. 85, no. 23, pp. e01746-19, Dec. 2019, doi: 10.1128/AEM.01746-19. 
+[11] R Core Team, R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing, 2017. [Online]. Available: https://www.R-project.org/
+[12] L. Henry , H. Wickham "rlang: Functions for Base Types and Core R and 'Tidyverse' Features." (2024). R package version 1.1.4, <https://CRAN.R-project.org/package=rlang>.
+[13] D. Makowski, et al. “Automated Results Reporting as a Practical Tool to Improve Reproducibility and Methodological Best Practices Adoption.” CRAN. (2023). <https://easystats.github.io/report/>.
+[14] K. Müller, "here: A Simpler Way to Find Your Files." (2020). R package version 1.0.1, <https://CRAN.R-project.org/package=here>.
+[15] K. Müller K, H. Wickham "tibble: Simple Data Frames." (2023). R package version 3.2.1, <https://CRAN.R-project.org/package=tibble>.
+[16] X. Robin, et al. “pROC: an open-source package for R and S+ to analyze and compare ROC curves.” _BMC Bioinformatics_, *12*, 77. (2011). 
+[17] D. Robinson, A. Hayes, S. Couch "broom: Convert Statistical Objects into Tidy Tibbles." (2024). R package version 1.0.6, <https://CRAN.R-project.org/package=broom>.
+[18] H. Wickham "ggplot2: Elegant Graphics for Data Analysis." Springer-Verlag New York. ISBN 978-3-319-24277-4, (2016). <https://ggplot2.tidyverse.org>.
+[19] H. Wickham "forcats: Tools for Working with Categorical Variables (Factors)." (2023). R package version 1.0.0, <https://CRAN.R-project.org/package=forcats>.
+[20] H. Wickham "stringr: Simple, Consistent Wrappers for Common String Operations." (2023). R package version 1.5.1, <https://CRAN.R-project.org/package=stringr>.
+[21] H. Wickham, J. Bryan "readxl: Read Excel Files." (2023). R package version 1.4.3, (2023). <https://CRAN.R-project.org/package=readxl>.
+[22] H. Wickham et al. "dplyr: A Grammar of Data Manipulation." (2023). R package version 1.1.4, <https://CRAN.R-project.org/package=dplyr>.
+[23] H. Wickham, L. Henry "purrr: Functional Programming Tools." (2023). R package version 1.0.2, <https://CRAN.R-project.org/package=purrr>.
+[24] H. Wickham, J. Hester, J. Bryan, "readr: Read Rectangular Text Data." (2024). R package version 2.1.5, <https://CRAN.R-project.org/package=readr>.
+[25] H. Wickham, D. Vaughan, M. Girlich "tidyr: Tidy Messy Data." (2024). R package version 1.3.1, <https://CRAN.R-project.org/package=tidyr>.
