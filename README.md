@@ -21,6 +21,8 @@ The following is a list of research posters included in this repository:
 - [Shotgun Metagenomics](https://github.com/ChristyPeterson/myposters/blob/main/assets/csm2018_metagenomics_v4.jpg): Can it be a one-stop-shop CIDT for enteric pathogen detection and typing in stool? Metagenomic research poster, presented at CSM 2018.
 - [Genomic Surveillance of clinical listeria monocytogenes in Canada 2017-2024](https://github.com/ChristyPeterson/myposters/blob/main/assets/20240815_ISOPOL-lmo_poster_v2-long_lowres.jpg) poster presented at ISOPOL 2024.
     - [Reference list](https://github.com/ChristyPeterson/myposters/blob/main/references/ISOPOL2024poster-refs.txt)
+- Advancing foodborne pathogen surveillance: [Salmonella typing via shotgun metagenomics](https://github.com/ChristyPeterson/myposters/blob/main/assets/20251014_sal-mgen_ICCMg-poster_v2.jpg); poster presented at ICCMg 2025
+    - [Reference list](https://github.com/ChristyPeterson/myposters/blob/main/references/ICCMg2025poster-refs.txt)
 
 Feel free to explore the posters and download them for reference.
 
